@@ -1,0 +1,32 @@
+.bgbody{
+    background-color: #ddcf81;
+    text-align: center;
+}
+
+.ver{
+  
+    padding: 20px;
+    text-align: center;
+
+}
+
+#iste{
+    
+    padding: 4px;
+    font-size: 20px;
+    color: rgb(17, 3, 3);
+    border-radius: 10px;
+    margin-top: 60px;
+    width: 500px;
+
+}
+#callurl{
+    padding: 4px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(44, 185, 228);
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+    
+}
